@@ -1,0 +1,99 @@
+13:55:27,093 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+13:55:27,262 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.3) para el API "JDO" utilisando el JRE "{2}"
+13:55:27,284 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 0 clases.
+13:55:27,284 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado sin enhance ninguna clase. Compruebe el LOG para los detalles.
+14:05:33,024 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+14:05:33,124 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.3) para el API "JDO" utilisando el JRE "{2}"
+14:05:33,145 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 0 clases.
+14:05:33,146 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado sin enhance ninguna clase. Compruebe el LOG para los detalles.
+14:26:37,858 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+14:26:37,957 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.3) para el API "JDO" utilisando el JRE "{2}"
+14:26:38,175 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+14:26:38,184 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+14:26:38,184 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+20:46:23,556 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+20:46:23,731 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+20:46:23,943 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+20:46:23,952 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+20:46:23,952 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+20:56:19,711 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+20:56:19,809 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+20:56:19,989 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+20:56:19,998 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+20:56:19,998 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+21:00:01,226 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+21:00:01,363 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+21:00:01,559 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+21:00:01,569 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/workspaces/tpEvaluativoDos/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+21:00:01,569 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+21:00:07,058 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+21:00:07,160 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+21:00:07,165 (main) WARN  [DataNucleus.MetaData] - Metadata file -enhancerName not found in CLASSPATH
+21:00:07,166 (main) WARN  [DataNucleus.MetaData] - Metadata file ASM not found in CLASSPATH
+21:00:07,244 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 0 clases. Tiempos : input=78 ms, enhance=0 ms, total=78 ms. Compruebe el LOG para los detalles
+21:00:07,244 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado sin enhance ninguna clase. Compruebe el LOG para los detalles.
+21:16:36,206 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+21:16:36,306 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+21:16:36,460 (main) INFO  [DataNucleus.Enhancer] - La clase "org.dominio.Equipo" esta enhanced.
+21:16:36,463 (main) INFO  [DataNucleus.Enhancer] - La clase "org.dominio.Jugador" esta enhanced.
+21:16:36,463 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+21:30:07,063 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+21:30:07,173 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+21:30:07,330 (main) INFO  [DataNucleus.Enhancer] - La clase "org.dominio.Equipo" esta enhanced.
+21:30:07,333 (main) INFO  [DataNucleus.Enhancer] - La clase "org.dominio.Jugador" esta enhanced.
+21:30:07,333 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+22:03:07,208 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+22:03:07,307 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+22:03:07,490 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/tpEvaluativo-2/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+22:03:07,498 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/tpEvaluativo-2/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+22:03:07,499 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+22:46:53,283 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/santi/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+22:46:53,522 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.3) para el API "JDO" utilisando el JRE "{2}"
+22:46:53,907 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/santi/workspace/tpEvaluativo-2/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+22:46:53,915 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/santi/workspace/tpEvaluativo-2/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+22:46:53,916 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+23:01:27,023 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/santi/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+23:01:27,124 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.3) para el API "JDO" utilisando el JRE "{2}"
+23:01:27,330 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/santi/workspace/tpEvaluativo-2/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+23:01:27,338 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/santi/workspace/tpEvaluativo-2/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+23:01:27,338 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+23:38:39,596 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+23:38:39,708 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+23:38:39,915 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/tpEvaluativo-2/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+23:38:39,923 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/tpEvaluativo-2/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+23:38:39,924 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+00:18:46,116 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+00:18:46,378 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+00:18:46,680 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/tpEvaluativo-2/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+00:18:46,688 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/tpEvaluativo-2/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+00:18:46,688 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+00:40:03,307 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+00:40:03,558 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+00:40:03,925 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+00:40:03,936 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+00:40:03,937 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+00:53:33,767 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+00:53:34,434 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+00:53:34,615 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+00:53:34,623 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+00:53:34,623 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+01:15:01,755 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+01:15:01,876 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+01:15:02,064 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+01:15:02,074 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+01:15:02,075 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+02:18:23,088 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+02:18:23,204 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+02:18:23,458 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+02:18:23,467 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+02:18:23,467 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+02:48:58,688 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+02:48:58,782 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+02:48:58,967 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+02:48:58,975 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+02:48:58,975 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
+03:54:02,807 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/home/alejandra/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+03:54:02,901 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 4.0.4) para el API "JDO" utilisando el JRE "{2}"
+03:54:03,101 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Equipo.class" con definicion enhanced
+03:54:03,112 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "/home/alejandra/prog_web2/pp/dominio/target/classes/org/dominio/Jugador.class" con definicion enhanced
+03:54:03,112 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 2 clases.
